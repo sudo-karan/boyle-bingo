@@ -35,6 +35,9 @@ See the original spec for the full ruleset.
 
 ## Setup
 
+> **For a detailed, step-by-step deployment runbook (with troubleshooting), see
+> [DEPLOY.md](./DEPLOY.md).** The summary below is the short version.
+
 ### 1. Supabase project
 1. Create a free project. Note the **Project URL** and **anon public key**
    (Settings > API). Also grab the **service_role key** for the one-off admin
